@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Denis Gubich](https://github.com/z00k0)
+ - Place: Ufa, Russia
+ - Bio: Beginner Web Developer
+ - Github [Denis Gubich](https://github.com/z00k0)
